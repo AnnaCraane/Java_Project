@@ -5,7 +5,6 @@ public class Quiz {
 		
 		String question = "Which of the following applies to Java?'\n";
 		
-		
 		question += "A. Java is a style language, which is a type of language you can "
 				+ "\n use to describe the presentation of a markup language.\n\n";
 		question += "B. Java is a language specifying the organization of databases.\n\n";
