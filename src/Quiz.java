@@ -16,8 +16,8 @@ public class Quiz {
 				+ "\n language with first-class functions, and is best known as "
 				+ "\n the scripting language for web pages, but it's used in many non-browser environments aswell.\n";
 		
-		while (true) {
-			
+		
+			while(true) {
 		String answer = JOptionPane.showInputDialog(question);
 		
 		answer = answer.toUpperCase();
